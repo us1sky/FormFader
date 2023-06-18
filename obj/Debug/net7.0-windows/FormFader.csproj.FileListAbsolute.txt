@@ -1,0 +1,14 @@
+D:\PROJETOS\C#\ControlXPlus\FormFader\bin\Debug\net7.0-windows\FormFader.deps.json
+D:\PROJETOS\C#\ControlXPlus\FormFader\bin\Debug\net7.0-windows\FormFader.dll
+D:\PROJETOS\C#\ControlXPlus\FormFader\bin\Debug\net7.0-windows\FormFader.pdb
+D:\PROJETOS\C#\ControlXPlus\FormFader\obj\Debug\net7.0-windows\FormFader.csproj.AssemblyReference.cache
+D:\PROJETOS\C#\ControlXPlus\FormFader\obj\Debug\net7.0-windows\ControlX.FormFader.resources
+D:\PROJETOS\C#\ControlXPlus\FormFader\obj\Debug\net7.0-windows\FormFader.csproj.GenerateResource.cache
+D:\PROJETOS\C#\ControlXPlus\FormFader\obj\Debug\net7.0-windows\FormFader.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\C#\ControlXPlus\FormFader\obj\Debug\net7.0-windows\FormFader.AssemblyInfoInputs.cache
+D:\PROJETOS\C#\ControlXPlus\FormFader\obj\Debug\net7.0-windows\FormFader.AssemblyInfo.cs
+D:\PROJETOS\C#\ControlXPlus\FormFader\obj\Debug\net7.0-windows\FormFader.csproj.CoreCompileInputs.cache
+D:\PROJETOS\C#\ControlXPlus\FormFader\obj\Debug\net7.0-windows\FormFader.dll
+D:\PROJETOS\C#\ControlXPlus\FormFader\obj\Debug\net7.0-windows\refint\FormFader.dll
+D:\PROJETOS\C#\ControlXPlus\FormFader\obj\Debug\net7.0-windows\FormFader.pdb
+D:\PROJETOS\C#\ControlXPlus\FormFader\obj\Debug\net7.0-windows\ref\FormFader.dll
