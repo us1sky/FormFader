@@ -82,8 +82,6 @@ namespace ControlX
 
 
         [System.ComponentModel.Category("Behavior")]
-        [Browsable(true)]
-        [DesignerSerializationVisibility(DesignerSerializationVisibility.Content)]
         public Form Parent
         {
             get
