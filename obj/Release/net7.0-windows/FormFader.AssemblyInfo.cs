@@ -12,10 +12,10 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormFader")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Sérgio Gonçalves Miguel")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38eff097b7aa4d4dec4af741ad61a1276cf06e90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormFader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormFader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1")]
